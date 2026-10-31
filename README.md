@@ -1,5 +1,5 @@
 # PDF RAG Starter
-
+![RAG pipeline diagram](rag_pipeline.png)
 Five files: the 3-page AI Engineering PDF, commented notebook, matching Python script, and diagram (plus this README).
 
 ```bash
